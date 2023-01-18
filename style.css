@@ -1,0 +1,46 @@
+body{
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    margin: 30px 500px 30px 500px;
+}
+.container{
+background-color: burlywood;
+margin: 50px 280px 50px 280px;
+display: flex;
+justify-content: center;
+}
+.container img{
+    border: 10px black solid;
+    margin: 20px 20px 20px 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+.container2{
+    background-color: burlywood;
+    margin: 50px 280px 50px 280px;
+    display: flex;
+    justify-content: center;
+    
+}
+.container2 img{
+    border: 10px black solid;
+    margin: 20px 20px 20px 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+.container H3{
+    display: flex;
+    justify-content: center;
+}
+.container2 H3{
+    display: flex;
+    justify-content: center;
+}
+    
